@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibencherouten
+- 👋 Hi, I’m @ibencherouten Software Engineer
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Qt Framework, DevOps, NextJS, Linux Administration
 - 💞️ I’m looking to collaborate on [...]
